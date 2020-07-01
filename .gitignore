@@ -1,2 +1,3 @@
 manual/
 .ipynb_checkpoints/
+*.txt
