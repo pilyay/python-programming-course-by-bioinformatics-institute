@@ -1,4 +1,4 @@
 .DS_store
-manual/
-.ipynb_checkpoints/
-*.txt
+datasets/
+manuals/
+results/
