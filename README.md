@@ -5,8 +5,7 @@
 Ваши решения будут проверяться автоматической системой, поэтому вы будете получать быструю обратную связь. В силу большого количества участников курса, преподаватели не смогут давать индивидуальных советов по каждой программе, но если у вас будут возникать проблемы, то их всегда можно обсудить с однокурсниками в комментариях к задачам.  
 Также в курсе присутствует несколько задач повышенной сложности, которые являются необязательными для прохождения курса, однако желающие смогут поломать голову над придумыванием алгоритмов и реализацией программ к этим задачам.
 * URL: [https://stepik.org/course/67/](https://stepik.org/course/67/)
-
-| Объект | Содержание |
-|:---|:---|
-| [`python-programming.ipynb`](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb) | Решение задач курса |
-| [`certificate.pdf`](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf) | Сертификат |
+---
+### Содержание
+1. [Решение задач курса](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb)
+2. [Сертификат](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
