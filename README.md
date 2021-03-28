@@ -7,11 +7,11 @@
 Ваши решения будут проверяться автоматической системой, поэтому вы будете получать быструю обратную связь. В силу большого количества участников курса, преподаватели не смогут давать индивидуальных советов по каждой программе, но если у вас будут возникать проблемы, то их всегда можно обсудить с однокурсниками в комментариях к задачам.  
 Также в курсе присутствует несколько задач повышенной сложности, которые являются необязательными для прохождения курса, однако желающие смогут поломать голову над придумыванием алгоритмов и реализацией программ к этим задачам.
 
-* :books: [**Решение задач курса**](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb)
-	* :book: [Код первой недели]()
-	* :book: [Код второй недели]()
-	* :book: [Код третьей недели]()
-	* :white_check_mark: [Решение задач курса]()
+* :books: **Содержание**
+	* :book: [Операторы. Переменные. Типы данных. Условия](https://onedrive.live.com/?authkey=%21AJp6iDNkFPi7cos&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135162&parId=334D0964A644C8BA%211135161&o=OneUp)
+	* :book: [Циклы. Строки. Списки](https://onedrive.live.com/?authkey=%21AJp6iDNkFPi7cos&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135164&parId=334D0964A644C8BA%211135161&o=OneUp)
+	* :book: [Функции. Словари. Интерпретатор. Файлы. Модули](https://onedrive.live.com/?authkey=%21AJp6iDNkFPi7cos&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135163&parId=334D0964A644C8BA%211135161&o=OneUp)
+	* :white_check_mark: [Решение задач курса](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb)
 	
 * :mortar_board: [**Сертификат**](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
 
