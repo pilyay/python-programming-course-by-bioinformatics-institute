@@ -22,7 +22,7 @@
 		* Логические операции, операции сравнения
 		* Условия: if, else, elif. Блоки, отступы
 		* Строки
-		* [Задачи по материалам недели](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb#week1)
+		* Задачи по материалам недели
 	* Циклы. Строки. Списки
 		* Цикл while
 		* Операторы break, continue
