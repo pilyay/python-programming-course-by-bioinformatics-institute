@@ -10,11 +10,7 @@
 Также в курсе присутствует несколько задач повышенной сложности, которые являются необязательными для прохождения курса, однако желающие смогут поломать голову над придумыванием алгоритмов и реализацией программ к этим задачам.
 
 * :books: **Содержание**
-	* :green_book: [Операторы. Переменные. Типы данных. Условия](https://onedrive.live.com/?authkey=%21AGzgO67ZttTN6do&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135170&parId=334D0964A644C8BA%211135161&o=OneUp)
-
-<iframe src="https://onedrive.live.com/embed?cid=334D0964A644C8BA&resid=334D0964A644C8BA%211135170&authkey=ACb0SghgBOe0YYY&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
-
-		* :green_book: [Общая информация о курсе](https://1drv.ms/u/s!ArrIRKZkCU0zxaRXJ9wc0QgsHiDu_A?e=vZbZZi)
+	* :green_book: [Операторы. Переменные. Типы данных. Условия](https://onedrive.live.com/?authkey=%21AGzgO67ZttTN6do&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135170&parId=334D0964A644C8BA%211135161&o=OneUp)		* :green_book: [Общая информация о курсе](https://1drv.ms/u/s!ArrIRKZkCU0zxaRXJ9wc0QgsHiDu_A?e=vZbZZi)
 		* :green_book: [Введение: программы и Python. Проверка заданий](https://1drv.ms/b/s!ArrIRKZkCU0zxaRN7cvv3YIStuvrRw)
 			* :blue_book: [Официальный сайт Python](https://www.python.org/)
 			* :blue_book: [Официальная документация по Python](https://docs.python.org/3/)
