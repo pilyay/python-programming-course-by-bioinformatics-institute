@@ -12,7 +12,7 @@
 * :books: **Содержание**
 	* :closed_book: [Операторы. Переменные. Типы данных. Условия](https://1drv.ms/b/s!ArrIRKZkCU0zxaRDbOA7rtm21M3p2g)
 		* :green_book: [Общая информация о курсе](https://1drv.ms/b/s!ArrIRKZkCU0zxaRCCx4HFu686EQJOQ)
-		* Введение: программы и Python. Проверка заданий
+		* :green_book: [Введение: программы и Python. Проверка заданий](https://1drv.ms/b/s!ArrIRKZkCU0zxaRN7cvv3YIStuvrRw)
 		* Интерактивный режим Python. IPython
 		* Установка Python на компьютер
 		* Операции с целыми числами
