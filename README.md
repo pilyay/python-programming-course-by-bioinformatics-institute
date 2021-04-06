@@ -22,7 +22,7 @@
 			* :blue_book: [Интерактивный учебник языка Python (на русском языке)](http://pythontutor.ru/)
 			* :blue_book: [Книга A Byte of Python (EN)](http://www.swaroopch.com/notes/python/)
 			* :blue_book: [Книга A Byte of Python (RU)](http://wombat.org.ua/AByteOfPython/)
-		* [Интерактивный режим Python. IPython](https://1drv.ms/b/s!ArrIRKZkCU0zxaRTl6UajqSHMz9bYQ)
+		* :green_book: [Интерактивный режим Python. IPython](https://1drv.ms/b/s!ArrIRKZkCU0zxaRTl6UajqSHMz9bYQ)
 		* Установка Python на компьютер
 		* Операции с целыми числами
 		* Операции с вещественными числами
