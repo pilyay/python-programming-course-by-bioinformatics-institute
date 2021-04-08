@@ -36,8 +36,8 @@
 			* :blue_book: [Динамическая типизация](https://ru.wikipedia.org/wiki/Динамическая_типизация)
 		* :green_book: [Логические операции, операции сравнения](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135228&parId=334D0964A644C8BA%211135161&o=OneUp)
 			* :blue_book: [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
-		* :green_book: Условия: if, else, elif. Блоки, отступы
-		* :green_book: Строки
+		* :green_book: [Условия: if, else, elif. Блоки, отступы](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135233&parId=334D0964A644C8BA%211135161&o=OneUp)
+		* :green_book: [Строки](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135235&parId=334D0964A644C8BA%211135161&o=OneUp)
 		* :green_book: Задачи по материалам недели
 	* :green_book: Циклы. Строки. Списки
 		* :green_book: Цикл while
