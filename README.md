@@ -23,7 +23,7 @@
 			* :blue_book: [Книга A Byte of Python (EN)](http://www.swaroopch.com/notes/python/)
 			* :blue_book: [Книга A Byte of Python (RU)](http://wombat.org.ua/AByteOfPython/)
 		* :green_book: [Интерактивный режим Python. IPython](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135210&parId=334D0964A644C8BA%211135161&o=OneUp)
-		* Установка Python на компьютер
+		* :green_book: [Установка Python на компьютер](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135215&parId=334D0964A644C8BA%211135161&o=OneUp)
 		* Операции с целыми числами
 		* Операции с вещественными числами
 		* Типы данных
