@@ -12,7 +12,7 @@
 * :books: **Содержание**
 	* :green_book: [Операторы. Переменные. Типы данных. Условия](https://onedrive.live.com/?authkey=%21AGzgO67ZttTN6do&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135171&parId=334D0964A644C8BA%211135161&o=OneUp)
 		* :green_book: [Общая информация о курсе](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135198&parId=334D0964A644C8BA%211135161&o=OneUp)
-		* :green_book: [Введение: программы и Python. Проверка заданий]
+		* :green_book: [Введение: программы и Python. Проверка заданий](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135206&parId=334D0964A644C8BA%211135161&o=OneUp)
 			* :blue_book: [Официальный сайт Python](https://www.python.org/)
 			* :blue_book: [Официальная документация по Python](https://docs.python.org/3/)
 			* :blue_book: [Python в браузере](https://trinket.io/python/41462f0f16)
