@@ -34,7 +34,8 @@
 			* :blue_book: [Использование переменных в python 3](https://www.8host.com/blog/ispolzovanie-peremennyx-v-python-3/) 
 			* :blue_book: [PEP8 - стиль кода в языке Python](https://pep8.ru/doc/pep8/)
 			* :blue_book: [Динамическая типизация](https://ru.wikipedia.org/wiki/Динамическая_типизация)
-		* :green_book: Логические операции, операции сравнения
+		* :green_book: [Логические операции, операции сравнения](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135228&parId=334D0964A644C8BA%211135161&o=OneUp)
+			* :blue_book: [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 		* :green_book: Условия: if, else, elif. Блоки, отступы
 		* :green_book: Строки
 		* :green_book: Задачи по материалам недели
