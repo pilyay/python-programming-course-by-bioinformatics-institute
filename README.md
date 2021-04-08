@@ -24,7 +24,9 @@
 			* :blue_book: [Книга A Byte of Python (RU)](http://wombat.org.ua/AByteOfPython/)
 		* :green_book: [Интерактивный режим Python. IPython](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135210&parId=334D0964A644C8BA%211135161&o=OneUp)
 		* :green_book: [Установка Python на компьютер](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135215&parId=334D0964A644C8BA%211135161&o=OneUp)
-		* Операции с целыми числами
+		* :green_book: [Операции с целыми числами](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135216&parId=334D0964A644C8BA%211135161&o=OneUp)
+			* :blue_book: [Деление с остатком](https://ru.wikipedia.org/wiki/Деление_с_остатком)
+			* :blue_book: [An Informal Introduction to Python. Numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
 		* Операции с вещественными числами
 		* Типы данных
 		* Переменные. Стандартный ввод/вывод
