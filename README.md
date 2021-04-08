@@ -27,31 +27,35 @@
 		* :green_book: [Операции с целыми числами](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135216&parId=334D0964A644C8BA%211135161&o=OneUp)
 			* :blue_book: [Деление с остатком](https://ru.wikipedia.org/wiki/Деление_с_остатком)
 			* :blue_book: [An Informal Introduction to Python. Numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
-		* Операции с вещественными числами
-		* Типы данных
-		* Переменные. Стандартный ввод/вывод
-		* Логические операции, операции сравнения
-		* Условия: if, else, elif. Блоки, отступы
-		* Строки
-		* Задачи по материалам недели
-	* Циклы. Строки. Списки
-		* Цикл while
-		* Операторы break, continue
-		* Цикл for
-		* Строки и символы
-		* Списки
-		* Задачи по материалам недели
-	* Функции. Словари. Интерпретатор. Файлы. Модули
-		* Функции
-		* Словари
-		* Интерпретатор: установка, запуск скрипта
-		* Файловый ввод/вывод
-		* Модули, подключение модулей
-		* Установка дополнительных модулей
-		* Задачи по материалам недели
-		* Библиотеки для анализа данных. NumPy
-		* Библиотека Matplotlib
-		* Заключение
+		* :green_book: [Операции с вещественными числами](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135222&parId=334D0964A644C8BA%211135161&o=OneUp)
+			* :blue_book: [Экспоненциальная запись](https://ru.wikipedia.org/wiki/Экспоненциальная_запись#.D0.9A.D0.BE.D0.BC.D0.BF.D1.8C.D1.8E.D1.82.D0.B5.D1.80.D0.BD.D1.8B.D0.B9_.D1.81.D0.BF.D0.BE.D1.81.D0.BE.D0.B1_.D1.8D.D0.BA.D1.81.D0.BF.D0.BE.D0.BD.D0.B5.D0.BD.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B9_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B8)
+		* :green_book: [Типы данных](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135224&parId=334D0964A644C8BA%211135161&o=OneUp)
+		* :green_book: [Переменные. Стандартный ввод/вывод](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135227&parId=334D0964A644C8BA%211135161&o=OneUp)
+			* :blue_book: [Использование переменных в python 3](https://www.8host.com/blog/ispolzovanie-peremennyx-v-python-3/) 
+			* :blue_book: [PEP8 - стиль кода в языке Python](https://pep8.ru/doc/pep8/)
+			* :blue_book: [Динамическая типизация](https://ru.wikipedia.org/wiki/Динамическая_типизация)
+		* :green_book: Логические операции, операции сравнения
+		* :green_book: Условия: if, else, elif. Блоки, отступы
+		* :green_book: Строки
+		* :green_book: Задачи по материалам недели
+	* :green_book: Циклы. Строки. Списки
+		* :green_book: Цикл while
+		* :green_book: Операторы break, continue
+		* :green_book: Цикл for
+		* :green_book: Строки и символы
+		* :green_book: Списки
+		* :green_book: Задачи по материалам недели
+	* :green_book: Функции. Словари. Интерпретатор. Файлы. Модули
+		* :green_book: Функции
+		* :green_book: Словари
+		* :green_book: Интерпретатор: установка, запуск скрипта
+		* :green_book: Файловый ввод/вывод
+		* :green_book: Модули, подключение модулей
+		* :green_book: Установка дополнительных модулей
+		* :green_book: Задачи по материалам недели
+		* :green_book: Библиотеки для анализа данных. NumPy
+		* :green_book: Библиотека Matplotlib
+		* :green_book: Заключение
 	* :closed_book: [Решение задач курса](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb)
 	
 * :mortar_board: [**Сертификат**](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
