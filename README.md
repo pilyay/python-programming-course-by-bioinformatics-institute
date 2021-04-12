@@ -2,9 +2,6 @@
 
 * :man_technologist: **Разработчик** Институт биоинформатики 
 
-> [!NOTE]
-> Information the user should notice even if skimming.
-
 * :memo: **Описание**
 
 	В этом курсе по программированию на языке Python вы познакомитесь с базовыми понятиями программирования.  
