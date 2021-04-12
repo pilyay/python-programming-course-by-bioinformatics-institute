@@ -3,7 +3,7 @@
 * :man_technologist: **Разработчик** Институт биоинформатики 
 
 > [!NOTE]
-> Test
+> Information the user should notice even if skimming.
 
 * :memo: **Описание**
 
