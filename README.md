@@ -11,6 +11,6 @@
 
 * :books: **Содержание**
 	* :open_book: [Лекции]()
-	* :abacus: [Задачи](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb)
+	* :abacus: [Задачи](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python_programming.md)
 * :mortar_board: [Сертификат](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
 * :globe_with_meridians: <https://stepik.org/course/67/>
