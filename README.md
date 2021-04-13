@@ -10,7 +10,7 @@
 Также в курсе присутствует несколько задач повышенной сложности, которые являются необязательными для прохождения курса, однако желающие смогут поломать голову над придумыванием алгоритмов и реализацией программ к этим задачам.
 
 * :books: **Содержание**
-	* :open_book: [Лекции]()
+	* :open_book: [Лекции](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/lectures.md)
 	* :abacus: [Решение задач курса](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python_programming.md)
 * :mortar_board: [Сертификат](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
 * :globe_with_meridians: <https://stepik.org/course/67/>
