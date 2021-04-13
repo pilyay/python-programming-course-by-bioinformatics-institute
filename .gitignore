@@ -2,3 +2,5 @@
 datasets/
 results/
 manuals/
+*.ipynb
+.ipynb_chekpoints
