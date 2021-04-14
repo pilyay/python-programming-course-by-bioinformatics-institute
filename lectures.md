@@ -1,5 +1,5 @@
 <a id="content"></a>
-# Программирование на Python
+# Программирование на Python [:top:](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute)
 
 1. [Операторы. Переменные. Типы данных. Условия](#chapter_1)
 2. [Циклы. Строки. Списки](#chapter_2)
