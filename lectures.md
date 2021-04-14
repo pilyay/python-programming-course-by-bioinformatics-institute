@@ -8,6 +8,44 @@
 
 <a id="chapter_1"></a>
 ## Операторы. Переменные. Типы данных. Условия [:top:](#content)
+* :green_book: Код недели
+* :green_book: Общая информация о курсе
+* :green_book: Введение: программы и Python. Проверка заданий
+* :green_book: Интерактивный режим Python. IPython
+* :green_book: Установка Python на компьютер
+* :green_book: Операции с целыми числами
+* :green_book: Операции с вещественными числами
+* :green_book: Типы данных
+* :green_book: Переменные. Стандартный ввод/вывод
+* :green_book: Логические операции, операции сравнения
+* :green_book: Условия: if, else, elif. Блоки, отступы
+* :green_book: Строки
+* :green_book: Задачи по материалам недели
+
+<a id="chapter_2"></a>
+## Циклы. Строки. Списки [:top:](#content)
+* :green_book: Цикл while
+* :green_book: Операторы break, continue
+* :green_book: Цикл for
+* :green_book: Строки и символы
+* :green_book: Списки
+* :green_book: Задачи по материалам недели
+
+<a id="chapter_3"></a>
+## Функции. Словари. Интерпретатор. Файлы. Модули [:top:](#content)
+* :green_book: Функции
+* :green_book: Словари
+* :green_book: Интерпретатор: установка, запуск скрипта
+* :green_book: Файловый ввод/вывод
+* :green_book: Модули, подключение модулей
+* :green_book: Установка дополнительных модулей
+* :green_book: Задачи по материалам недели
+* :green_book: Библиотеки для анализа данных. NumPy
+* :green_book: Библиотека Matplotlib
+* :green_book: Заключение
+---
+<a id="chapter_1"></a>
+## Операторы. Переменные. Типы данных. Условия [:top:](#content)
 * :green_book: [Код недели](https://onedrive.live.com/?authkey=%21AGzgO67ZttTN6do&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135171&parId=334D0964A644C8BA%211135161&o=OneUp)
 * :green_book: [Общая информация о курсе](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135198&parId=334D0964A644C8BA%211135161&o=OneUp)
 * :green_book: [Введение: программы и Python. Проверка заданий](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135206&parId=334D0964A644C8BA%211135161&o=OneUp)
@@ -59,4 +97,3 @@
 * :green_book: Библиотеки для анализа данных. NumPy
 * :green_book: Библиотека Matplotlib
 * :green_book: Заключение
----
