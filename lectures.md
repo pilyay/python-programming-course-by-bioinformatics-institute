@@ -37,6 +37,8 @@
 * :green_book: [Условия: if, else, elif. Блоки, отступы](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135233&parId=334D0964A644C8BA%211135161&o=OneUp)
 * :green_book: [Строки](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135235&parId=334D0964A644C8BA%211135161&o=OneUp)
 * :green_book: Задачи по материалам недели
+
+<a id="chapter_2"></a>
 ## :green_book: Циклы. Строки. Списки [:top:](#content)
 * :green_book: Цикл while
 * :green_book: Операторы break, continue
@@ -44,6 +46,8 @@
 * :green_book: Строки и символы
 * :green_book: Списки
 * :green_book: Задачи по материалам недели
+
+<a id="chapter_3"></a>
 ## :green_book: Функции. Словари. Интерпретатор. Файлы. Модули [:top:](#content)
 * :green_book: Функции
 * :green_book: Словари
