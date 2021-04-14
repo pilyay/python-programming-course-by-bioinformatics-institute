@@ -1,4 +1,10 @@
-* :books: **Содержание**
+# Программирование на Python
+
+1. Операторы. Переменные. Типы данных. Условия
+2. Циклы. Строки. Списки
+3. Функции. Словари. Интерпретатор. Файлы. Модули
+---
+
 	* :green_book: [Операторы. Переменные. Типы данных. Условия](https://onedrive.live.com/?authkey=%21AGzgO67ZttTN6do&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135171&parId=334D0964A644C8BA%211135161&o=OneUp)
 		* :green_book: [Общая информация о курсе](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135198&parId=334D0964A644C8BA%211135161&o=OneUp)
 		* :green_book: [Введение: программы и Python. Проверка заданий](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135206&parId=334D0964A644C8BA%211135161&o=OneUp)
