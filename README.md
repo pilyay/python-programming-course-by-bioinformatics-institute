@@ -2,8 +2,6 @@
 
 * :man_technologist: **Разработчик** Институт биоинформатики 
 
-* :link: <https://stepik.org/course/67/>
-
 * :memo: **Описание**
 
 	В этом курсе по программированию на языке Python вы познакомитесь с базовыми понятиями программирования.  
@@ -15,3 +13,5 @@
 	* :open_book: [Лекции](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/lectures.md)
 	* :abacus: [Решение задач курса](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python_programming.md)
 * :mortar_board: [Сертификат](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
+
+* :globe_with_meridians: <https://stepik.org/course/67/>
