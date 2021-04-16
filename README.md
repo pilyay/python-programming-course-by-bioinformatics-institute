@@ -2,7 +2,7 @@
 
 * :man_technologist: **Разработчик** Институт биоинформатики 
 
-* :world_map: <https://stepik.org/course/67/>
+* :link: <https://stepik.org/course/67/>
 
 * :memo: **Описание**
 
