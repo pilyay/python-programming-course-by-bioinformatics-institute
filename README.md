@@ -1,4 +1,4 @@
-# [Курс Программирование на Python](https://stepik.org/course/67/) [:top:](https://github.com/pilyay?tab=repositories)
+# Курс [Программирование на Python](https://stepik.org/course/67/) [:top:](https://github.com/pilyay?tab=repositories)
 
 * :man_technologist: **Разработчик** Институт биоинформатики 
 
