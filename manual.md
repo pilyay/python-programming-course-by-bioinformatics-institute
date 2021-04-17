@@ -4,7 +4,7 @@
 1. [<details open><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
 
 	* :green_book: [Общая информация о курсе](#chapter_1.1)
-	* :green_book: Введение: программы и Python. Проверка заданий
+	* :green_book: [Введение: программы и Python. Проверка заданий](#chapter_1.2)
 	* :green_book: Интерактивный режим Python. IPython
 	* :green_book: Установка Python на компьютер
 	* :green_book: Операции с целыми числами
@@ -16,7 +16,7 @@
 	* :green_book: Строки
 	* :green_book: Задачи по материалам недели
 
-2. <details open><summary>Циклы. Строки. Списки</summary>
+2. [<details><summary>Циклы. Строки. Списки</summary>](#chapter_2)
 
 	* :green_book: Цикл while
 	* :green_book: Операторы break, continue
@@ -25,7 +25,7 @@
 	* :green_book: Списки
 	* :green_book: Задачи по материалам недели
 
-3. <details open><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>
+3. [<details><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
 
 	* :green_book: Функции
 	* :green_book: Словари
@@ -43,8 +43,9 @@
 
 <a id="chapter_1"></a>
 # Операторы. Переменные. Типы данных. Условия
+
 <a id="chapter_1.1"></a>
-## Общая информация о курсе [:top:](#content)
+## :green_book: Общая информация о курсе [:top:](#content)
 
 ### Добро пожаловать!
 Мы рады видеть вас на курсе «Программирование на Python». В этом вводном уроке мы расскажем вам о том, что вас ждёт, и дадим рекомендации по прохождению курса. Жмите кнопку «вправо», чтобы перейти к следующему шагу.
@@ -84,59 +85,61 @@
 
 При возникновении технических вопросов по курсу пишите на почту online@bioinformaticsinstitute.ru. 
 
+### Критерии прохождения курса по Python
+Рядом с каждым тестом и задачей указано количество баллов, которое вы получите за правильное решение. Ваш общий прогресс также отображается в оглавлении курса, там же видны и сроки сдачи каждой из задач.
 
+Суммарная стоимость всех базовых задач составляет **94** балла. Дополнительные **6** баллов можно набрать за решение задач на программирование повышенной сложности.
 
----
-<a id="chapter_1"></a>
-## Операторы. Переменные. Типы данных. Условия [:top:](#content)
-* :green_book: [Код недели](https://onedrive.live.com/?authkey=%21AGzgO67ZttTN6do&cid=334D0964A644C8BA&id=334D0964A644C8BA%211135171&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: [Общая информация о курсе](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135198&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: [Введение: программы и Python. Проверка заданий](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135206&parId=334D0964A644C8BA%211135161&o=OneUp)
-	* :blue_book: [Официальный сайт Python](https://www.python.org/)
-	* :blue_book: [Официальная документация по Python](https://docs.python.org/3/)
-	* :blue_book: [Python в браузере](https://trinket.io/python/41462f0f16)
-	* :blue_book: [PyCharm Educational Edition](https://www.jetbrains.com/pycharm-educational/)
-	* :blue_book: [PyCharm Community Edition](https://www.jetbrains.com/pycharm/)
-	* :blue_book: [Sublime Text 3](http://www.sublimetext.com/3)
-	* :blue_book: [Интерактивный учебник языка Python (на русском языке)](http://pythontutor.ru/)
-	* :blue_book: [Книга A Byte of Python (EN)](http://www.swaroopch.com/notes/python/)
-	* :blue_book: [Книга A Byte of Python (RU)](http://wombat.org.ua/AByteOfPython/)
-* :green_book: [Интерактивный режим Python. IPython](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135210&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: [Установка Python на компьютер](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135215&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: [Операции с целыми числами](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135216&parId=334D0964A644C8BA%211135161&o=OneUp)
-	* :blue_book: [Деление с остатком](https://ru.wikipedia.org/wiki/Деление_с_остатком)
-	* :blue_book: [An Informal Introduction to Python. Numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
-* :green_book: [Операции с вещественными числами](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135222&parId=334D0964A644C8BA%211135161&o=OneUp)
-	* :blue_book: [Экспоненциальная запись](https://ru.wikipedia.org/wiki/Экспоненциальная_запись#.D0.9A.D0.BE.D0.BC.D0.BF.D1.8C.D1.8E.D1.82.D0.B5.D1.80.D0.BD.D1.8B.D0.B9_.D1.81.D0.BF.D0.BE.D1.81.D0.BE.D0.B1_.D1.8D.D0.BA.D1.81.D0.BF.D0.BE.D0.BD.D0.B5.D0.BD.D1.86.D0.B8.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B9_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B8)
-* :green_book: [Типы данных](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135224&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: [Переменные. Стандартный ввод/вывод](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135227&parId=334D0964A644C8BA%211135161&o=OneUp)
-	* :blue_book: [Использование переменных в python 3](https://www.8host.com/blog/ispolzovanie-peremennyx-v-python-3/) 
-	* :blue_book: [PEP8 - стиль кода в языке Python](https://pep8.ru/doc/pep8/)
-	* :blue_book: [Динамическая типизация](https://ru.wikipedia.org/wiki/Динамическая_типизация)
-* :green_book: [Логические операции, операции сравнения](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135228&parId=334D0964A644C8BA%211135161&o=OneUp)
-	* :blue_book: [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
-* :green_book: [Условия: if, else, elif. Блоки, отступы](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135233&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: [Строки](https://onedrive.live.com/?cid=334D0964A644C8BA&id=334D0964A644C8BA%211135235&parId=334D0964A644C8BA%211135161&o=OneUp)
-* :green_book: Задачи по материалам недели
+Для получения сертификата по курсу необходимо набрать **80** баллов, для сертификата с отличием — **90** баллов. Как только наберёте 80 баллов, в течение суток автоматически получите сертификат, а потом баллы в нём будут сами обновляться по мере решения новых задач. 
+
+Внимание, **дедлайнов по этому курсу нет**, то есть вы можете просматривать материалы и решать задачи в удобном для вас режиме. Но если вы действительно хотите пройти этот курс, советуем вам заниматься регулярно, и проходить хотя бы по несколько уроков в день.
+
+### Форум
+Напишите ниже пару слов о себе. Почему вы решили изучать этот курс?
+
+### Удачного прохождения курса!
+Ответы на основные вопросы по платформе вы можете найти в Help Center. 
+
+Присоединяйтесь к нам в соцсетях, чтобы узнать последние новости о платформе и курсах:
+
+[ВКонтакте](http://vk.com/rustepik), [Facebook](http://www.facebook.com/rustepik), [Google+](http://plus.google.com/u/0/b/106625599607783514169/106625599607783514169) и [Twitter](http://twitter.com/rustepik).
+
+Рекомендуйте курс друзьям и знакомым, ведь вместе проходить его гораздо веселее!
+
+<a id="chapter_1.2"></a>
+## :green_book: Введение: программы и Python. Проверка заданий [:top:](#content)
+
+## [Интерактивный режим Python. IPython]()
+## [Установка Python на компьютер]()
+## [Операции с целыми числами]()
+## * :green_book: [Операции с вещественными числами]()
+## * :green_book: [Типы данных]()
+## * :green_book: [Переменные. Стандартный ввод/вывод]()
+## * :green_book: [Логические операции, операции сравнения]()
+## * :green_book: [Условия: if, else, elif. Блоки, отступы]()
+## * :green_book: [Строки]()
+## * :green_book: Задачи по материалам недели
 
 <a id="chapter_2"></a>
-## Циклы. Строки. Списки [:top:](#content)
-* :green_book: Цикл while
-* :green_book: Операторы break, continue
-* :green_book: Цикл for
-* :green_book: Строки и символы
-* :green_book: Списки
-* :green_book: Задачи по материалам недели
+# Циклы. Строки. Списки
+
+## * :green_book: Цикл while  [:top:](#content)
+## * :green_book: Операторы break, continue
+## * :green_book: Цикл for
+## * :green_book: Строки и символы
+## * :green_book: Списки
+## * :green_book: Задачи по материалам недели
 
 <a id="chapter_3"></a>
-## Функции. Словари. Интерпретатор. Файлы. Модули [:top:](#content)
-* :green_book: Функции
-* :green_book: Словари
-* :green_book: Интерпретатор: установка, запуск скрипта
-* :green_book: Файловый ввод/вывод
-* :green_book: Модули, подключение модулей
-* :green_book: Установка дополнительных модулей
-* :green_book: Задачи по материалам недели
-* :green_book: Библиотеки для анализа данных. NumPy
-* :green_book: Библиотека Matplotlib
-* :green_book: Заключение
+# Функции. Словари. Интерпретатор. Файлы. Модули
+
+## * :green_book: Функции  [:top:](#content)
+## * :green_book: Словари
+## * :green_book: Интерпретатор: установка, запуск скрипта
+## * :green_book: Файловый ввод/вывод
+## * :green_book: Модули, подключение модулей
+## * :green_book: Установка дополнительных модулей
+## * :green_book: Задачи по материалам недели
+## * :green_book: Библиотеки для анализа данных. NumPy
+## * :green_book: Библиотека Matplotlib
+## * :green_book: Заключение
