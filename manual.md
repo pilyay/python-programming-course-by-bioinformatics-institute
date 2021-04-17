@@ -5,38 +5,38 @@
 
 	* :green_book: [Общая информация о курсе](#chapter_1.1)
 	* :green_book: [Введение: программы и Python. Проверка заданий](#chapter_1.2)
-	* :green_book: Интерактивный режим Python. IPython
-	* :green_book: Установка Python на компьютер
-	* :green_book: Операции с целыми числами
-	* :green_book: Операции с вещественными числами
-	* :green_book: Типы данных
-	* :green_book: Переменные. Стандартный ввод/вывод
-	* :green_book: Логические операции, операции сравнения
-	* :green_book: Условия: if, else, elif. Блоки, отступы
-	* :green_book: Строки
-	* :green_book: Задачи по материалам недели
+	* :green_book: [Интерактивный режим Python. IPython](#chapter_1.3)
+	* :green_book: [Установка Python на компьютер](#chapter_1.4)
+	* :green_book: [Операции с целыми числами](#chapter_1.5)
+	* :green_book: [Операции с вещественными числами](#chapter_1.6)
+	* :green_book: [Типы данных](#chapter_1.7)
+	* :green_book: [Переменные. Стандартный ввод/вывод](#chapter_1.8)
+	* :green_book: [Логические операции, операции сравнения](#chapter_1.9)
+	* :green_book: [Условия: if, else, elif. Блоки, отступы](#chapter_1.10)
+	* :green_book: [Строки](#chapter_1.11)
+	* :closed_book: [Задачи по материалам недели](#chapter_1.12)
 
-2. [<details><summary>Циклы. Строки. Списки</summary>](#chapter_2)
+2. [<details open><summary>Циклы. Строки. Списки</summary>](#chapter_2)
 
-	* :green_book: Цикл while
-	* :green_book: Операторы break, continue
-	* :green_book: Цикл for
-	* :green_book: Строки и символы
-	* :green_book: Списки
-	* :green_book: Задачи по материалам недели
+	* :green_book: [Цикл while](#chapter_2.1)
+	* :green_book: [Операторы break, continue](#chapter_2.2)
+	* :green_book: [Цикл for](#chapter_2.3)
+	* :green_book: [Строки и символы](#chapter_2.4)
+	* :green_book: [Списки](#chapter_2.5)
+	* :closed_book: [Задачи по материалам недели](#chapter_2.6)
 
-3. [<details><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
+3. [<details open><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
 
-	* :green_book: Функции
-	* :green_book: Словари
-	* :green_book: Интерпретатор: установка, запуск скрипта
-	* :green_book: Файловый ввод/вывод
-	* :green_book: Модули, подключение модулей
-	* :green_book: Установка дополнительных модулей
-	* :green_book: Задачи по материалам недели
-	* :green_book: Библиотеки для анализа данных. NumPy
-	* :green_book: Библиотека Matplotlib
-	* :green_book: Заключение
+	* :green_book: [Функции](#chapter_3.1)
+	* :green_book: [Словари](#chapter_3.2)
+	* :green_book: [Интерпретатор: установка, запуск скрипта](#chapter_3.3)
+	* :green_book: [Файловый ввод/вывод](#chapter_3.4)
+	* :green_book: [Модули, подключение модулей](#chapter_3.5)
+	* :green_book: [Установка дополнительных модулей](#chapter_3.6)
+	* :closed_book: [Задачи по материалам недели](#chapter_3.7)
+	* :green_book: [Библиотеки для анализа данных. NumPy](#chapter_3.8)
+	* :green_book: [Библиотека Matplotlib](#chapter_3.9)
+	* :green_book: [Заключение](#chapter_3.10)
 </details>
 
 ---
@@ -48,11 +48,11 @@
 ## :green_book: Общая информация о курсе [:top:](#content)
 
 ### Добро пожаловать!
----
+
 Мы рады видеть вас на курсе «Программирование на Python». В этом вводном уроке мы расскажем вам о том, что вас ждёт, и дадим рекомендации по прохождению курса. Жмите кнопку «вправо», чтобы перейти к следующему шагу.
 
 ### Сначала о формате
----
+
 Каждая неделя состоит из нескольких уроков, которые представляют собой наборы коротких видео-лекций (от 30 секунд до 5 минут, в редких случаях дольше).
 
 Обычно один урок посвящен обсуждению одного понятия в общем, а один видео-фрагмент внутри урока — одной стороне или детали понятия.
@@ -108,40 +108,90 @@
 
 Рекомендуйте курс друзьям и знакомым, ведь вместе проходить его гораздо веселее!
 
+
 <a id="chapter_1.2"></a>
 ## :green_book: Введение: программы и Python. Проверка заданий [:top:](#content)
 
-## [Интерактивный режим Python. IPython]()
-## [Установка Python на компьютер]()
-## [Операции с целыми числами]()
-## * :green_book: [Операции с вещественными числами]()
-## * :green_book: [Типы данных]()
-## * :green_book: [Переменные. Стандартный ввод/вывод]()
-## * :green_book: [Логические операции, операции сравнения]()
-## * :green_book: [Условия: if, else, elif. Блоки, отступы]()
-## * :green_book: [Строки]()
-## * :green_book: Задачи по материалам недели
+<a id="chapter_1.3"></a>
+## :green_book: Интерактивный режим Python. IPython [:top:](#content)
+
+<a id="chapter_1.4"></a>
+## :green_book: Установка Python на компьютер [:top:](#content)
+
+<a id="chapter_1.5"></a>
+## :green_book: Операции с целыми числами [:top:](#content)
+
+<a id="chapter_1.6"></a>
+## :green_book: Операции с вещественными числами [:top:](#content)
+
+<a id="chapter_1.7"></a>
+## :green_book: Типы данных [:top:](#content)
+
+<a id="chapter_1.8"></a>
+## :green_book: Переменные. Стандартный ввод/вывод [:top:](#content)
+
+<a id="chapter_1.9"></a>
+## :green_book: Логические операции, операции сравнения [:top:](#content)
+
+<a id="chapter_1.10"></a>
+## :green_book: Условия: if, else, elif. Блоки, отступы [:top:](#content)
+
+<a id="chapter_1.11"></a>
+## :green_book: Строки [:top:](#content)
+
+<a id="chapter_1.12"></a>
+## :closed_book: Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_2"></a>
 # Циклы. Строки. Списки
 
-## * :green_book: Цикл while  [:top:](#content)
-## * :green_book: Операторы break, continue
-## * :green_book: Цикл for
-## * :green_book: Строки и символы
-## * :green_book: Списки
-## * :green_book: Задачи по материалам недели
+<a id="chapter_2.1"></a>
+## :green_book: Цикл while  [:top:](#content)
+
+<a id="chapter_2.2"></a>
+## :green_book: Операторы break, continue [:top:](#content)
+
+<a id="chapter_2.3"></a>
+## :green_book: Цикл for [:top:](#content)
+
+<a id="chapter_2.4"></a>
+## :green_book: Строки и символы [:top:](#content)
+
+<a id="chapter_2.5"></a>
+## :green_book: Списки [:top:](#content)
+
+<a id="chapter_2.6"></a>
+## :closed_book: Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_3"></a>
 # Функции. Словари. Интерпретатор. Файлы. Модули
 
-## * :green_book: Функции  [:top:](#content)
-## * :green_book: Словари
-## * :green_book: Интерпретатор: установка, запуск скрипта
-## * :green_book: Файловый ввод/вывод
-## * :green_book: Модули, подключение модулей
-## * :green_book: Установка дополнительных модулей
-## * :green_book: Задачи по материалам недели
-## * :green_book: Библиотеки для анализа данных. NumPy
-## * :green_book: Библиотека Matplotlib
-## * :green_book: Заключение
+<a id="chapter_3.1"></a>
+## :green_book: Функции  [:top:](#content)
+
+<a id="chapter_3.2"></a>
+## :green_book: Словари [:top:](#content)
+
+<a id="chapter_3.3"></a>
+## :green_book: Интерпретатор: установка, запуск скрипта [:top:](#content)
+
+<a id="chapter_3.4"></a>
+## :green_book: Файловый ввод/вывод [:top:](#content)
+
+<a id="chapter_3.5"></a>
+## :green_book: Модули, подключение модулей [:top:](#content)
+
+<a id="chapter_3.6"></a>
+## :green_book: Установка дополнительных модулей [:top:](#content)
+
+<a id="chapter_3.7"></a>
+## :closed_book: Задачи по материалам недели [:top:](#content)
+
+<a id="chapter_3.8"></a>
+## :green_book: Библиотеки для анализа данных. NumPy [:top:](#content)
+
+<a id="chapter_3.9"></a>
+## :green_book: Библиотека Matplotlib [:top:](#content)
+
+<a id="chapter_3.10"></a>
+## :green_book: Заключение [:top:](#content)
