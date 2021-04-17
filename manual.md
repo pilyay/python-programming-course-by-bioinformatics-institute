@@ -1,7 +1,7 @@
 <a id="content"></a>
 # Программирование на Python [:top:](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute)
 
-1. [<details open><summary>Операторы. Переменные. Типы данных. Условия</summary>](chapter_1)
+1. [<details open><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
 
 	* :green_book: [Общая информация о курсе](#chapter_1.1)
 	* :green_book: Введение: программы и Python. Проверка заданий
