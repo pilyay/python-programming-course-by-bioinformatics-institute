@@ -1,7 +1,7 @@
 <a id="content"></a>
 # Программирование на Python [:top:](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute)
 
-1. [<details open><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
+1. [<details><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
 
 	* :green_book: [Общая информация о курсе](#chapter_1.1)
 	* :green_book: [Введение: программы и Python. Проверка заданий](#chapter_1.2)
@@ -16,7 +16,7 @@
 	* :green_book: [Строки](#chapter_1.11)
 	* :closed_book: [Задачи по материалам недели](#chapter_1.12)
 
-2. [<details open><summary>Циклы. Строки. Списки</summary>](#chapter_2)
+2. [<details><summary>Циклы. Строки. Списки</summary>](#chapter_2)
 
 	* :green_book: [Цикл while](#chapter_2.1)
 	* :green_book: [Операторы break, continue](#chapter_2.2)
@@ -25,7 +25,7 @@
 	* :green_book: [Списки](#chapter_2.5)
 	* :closed_book: [Задачи по материалам недели](#chapter_2.6)
 
-3. [<details open><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
+3. [<details><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
 
 	* :green_book: [Функции](#chapter_3.1)
 	* :green_book: [Словари](#chapter_3.2)
@@ -133,6 +133,8 @@ Step on Stepik: <https://stepik.org/lesson/3360/step/1>
 
 ### Step 2 (S-12217)
 Step on Stepik: <https://stepik.org/lesson/3360/step/2>
+
+![png](1.png)
 
 Step 2 (S-12217) 1.png
 
