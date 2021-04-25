@@ -1,5 +1,9 @@
 .DS_store
+.ipynb_checkpoints/
+.idea/
 datasets/
+webinars/
+*.csv
+original.ipynb
+
 results/
-manuals/
-.ipynb_chekpoints
