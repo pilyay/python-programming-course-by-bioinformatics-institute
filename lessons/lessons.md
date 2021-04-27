@@ -1,7 +1,7 @@
 <a id="content"></a>
 # Программирование на Python [:top:](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute)
 
-1. [<details><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
+1. [<details open><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
 
 	* :green_book: [Общая информация о курсе](#chapter_1.1)
 	* :green_book: [Введение: программы и Python. Проверка заданий](#chapter_1.2)
@@ -15,6 +15,7 @@
 	* :green_book: [Условия: if, else, elif. Блоки, отступы](#chapter_1.10)
 	* :green_book: [Строки](#chapter_1.11)
 	* :closed_book: [Задачи по материалам недели](#chapter_1.12)
+</details>
 
 2. [<details><summary>Циклы. Строки. Списки</summary>](#chapter_2)
 
@@ -24,6 +25,7 @@
 	* :green_book: [Строки и символы](#chapter_2.4)
 	* :green_book: [Списки](#chapter_2.5)
 	* :closed_book: [Задачи по материалам недели](#chapter_2.6)
+</details>
 
 3. [<details><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
 
