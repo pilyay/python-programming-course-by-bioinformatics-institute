@@ -3,42 +3,42 @@
 
 1. [<details open><summary>Операторы. Переменные. Типы данных. Условия</summary>](#chapter_1)
 
-	* :green_book: [Общая информация о курсе](#chapter_1.1)
-	* :green_book: [Введение: программы и Python. Проверка заданий](#chapter_1.2)
-	* :green_book: [Интерактивный режим Python. IPython](#chapter_1.3)
-	* :green_book: [Установка Python на компьютер](#chapter_1.4)
-	* :green_book: [Операции с целыми числами](#chapter_1.5)
-	* :green_book: [Операции с вещественными числами](#chapter_1.6)
-	* :green_book: [Типы данных](#chapter_1.7)
-	* :green_book: [Переменные. Стандартный ввод/вывод](#chapter_1.8)
-	* :green_book: [Логические операции, операции сравнения](#chapter_1.9)
-	* :green_book: [Условия: if, else, elif. Блоки, отступы](#chapter_1.10)
-	* :green_book: [Строки](#chapter_1.11)
-	* :closed_book: [Задачи по материалам недели](#chapter_1.12)
+	* [Общая информация о курсе](#chapter_1.1)
+	* [Введение: программы и Python. Проверка заданий](#chapter_1.2)
+	* [Интерактивный режим Python. IPython](#chapter_1.3)
+	* [Установка Python на компьютер](#chapter_1.4)
+	* [Операции с целыми числами](#chapter_1.5)
+	* [Операции с вещественными числами](#chapter_1.6)
+	* [Типы данных](#chapter_1.7)
+	* [Переменные. Стандартный ввод/вывод](#chapter_1.8)
+	* [Логические операции, операции сравнения](#chapter_1.9)
+	* [Условия: if, else, elif. Блоки, отступы](#chapter_1.10)
+	* [Строки](#chapter_1.11)
+	* [Задачи по материалам недели](#chapter_1.12)
 </details>
 
 2. [<details><summary>Циклы. Строки. Списки</summary>](#chapter_2)
 
-	* :green_book: [Цикл while](#chapter_2.1)
-	* :green_book: [Операторы break, continue](#chapter_2.2)
-	* :green_book: [Цикл for](#chapter_2.3)
-	* :green_book: [Строки и символы](#chapter_2.4)
-	* :green_book: [Списки](#chapter_2.5)
-	* :closed_book: [Задачи по материалам недели](#chapter_2.6)
+	* [Цикл while](#chapter_2.1)
+	* [Операторы break, continue](#chapter_2.2)
+	* [Цикл for](#chapter_2.3)
+	* [Строки и символы](#chapter_2.4)
+	* [Списки](#chapter_2.5)
+	* [Задачи по материалам недели](#chapter_2.6)
 </details>
 
 3. [<details><summary>Функции. Словари. Интерпретатор. Файлы. Модули</summary>](#chapter_3)
 
-	* :green_book: [Функции](#chapter_3.1)
-	* :green_book: [Словари](#chapter_3.2)
-	* :green_book: [Интерпретатор: установка, запуск скрипта](#chapter_3.3)
-	* :green_book: [Файловый ввод/вывод](#chapter_3.4)
-	* :green_book: [Модули, подключение модулей](#chapter_3.5)
-	* :green_book: [Установка дополнительных модулей](#chapter_3.6)
-	* :closed_book: [Задачи по материалам недели](#chapter_3.7)
-	* :green_book: [Библиотеки для анализа данных. NumPy](#chapter_3.8)
-	* :green_book: [Библиотека Matplotlib](#chapter_3.9)
-	* :green_book: [Заключение](#chapter_3.10)
+	* [Функции](#chapter_3.1)
+	* [Словари](#chapter_3.2)
+	* [Интерпретатор: установка, запуск скрипта](#chapter_3.3)
+	* [Файловый ввод/вывод](#chapter_3.4)
+	* [Модули, подключение модулей](#chapter_3.5)
+	* [Установка дополнительных модулей](#chapter_3.6)
+	* [Задачи по материалам недели](#chapter_3.7)
+	* [Библиотеки для анализа данных. NumPy](#chapter_3.8)
+	* [Библиотека Matplotlib](#chapter_3.9)
+	* [Заключение](#chapter_3.10)
 </details>
 
 ---
@@ -111,7 +111,7 @@
 Рекомендуйте курс друзьям и знакомым, ведь вместе проходить его гораздо веселее!
 
 <a id="chapter_1.2"></a>
-## :green_book: Введение: программы и Python. Проверка заданий [:top:](#content)
+## Введение: программы и Python. Проверка заданий [:top:](#content)
 
 ### Step 1 (S-12300)
 Step on Stepik: <https://stepik.org/lesson/3360/step/1>
@@ -183,7 +183,7 @@ Step on Stepik: <https://stepik.org/lesson/3360/step/4>
 и ее перевод на русский: <http://wombat.org.ua/AByteOfPython/>
 
 <a id="chapter_1.3"></a>
-## :green_book: Интерактивный режим Python. IPython [:top:](#content)
+## Интерактивный режим Python. IPython [:top:](#content)
 
 ### Step 1 (S-14147)
 Step on Stepik: <https://stepik.org/lesson/3361/step/1>
@@ -302,7 +302,7 @@ Step on Stepik: <https://stepik.org/lesson/3361/step/6>
 Видим, что все вспомогательные строчки закомментированы. Незакомментированными остались только инструкции для интерпретатора. Далее, если ваша программа уже готова, вы можете отправить на ее проверку. Для этого просто выделите весь текст, скопируйте его и вставьте на сайте в окно ответа.
 
 <a id="chapter_1.4"></a>
-## :green_book: Установка Python на компьютер [:top:](#content)
+## Установка Python на компьютер [:top:](#content)
 
 ### Step 1 (S-14829)
 Step on Stepik: https://stepik.org/lesson/7150/step/1
@@ -435,7 +435,7 @@ Cсылка для скачивания пакета Miniconda: <http://conda.py
 Команды для запуска: `conda update conda --yes conda install ipython --yes conda install ipython-notebook --yes conda install pyzmq --yes conda install jinja2 --yes conda install tornado --yes`
 
 <a id="chapter_1.5"></a>
-## :green_book: Операции с целыми числами [:top:](#content)
+## Операции с целыми числами [:top:](#content)
 
 ### Step 1 (S-14010)
 Step on Stepik: <https://stepik.org/lesson/2228/step/1>
@@ -496,7 +496,7 @@ Step on Stepik: <https://stepik.org/lesson/2228/step/6>
 ![](images/S-12051-3.png)
 
 Полезные ссылки:
-<https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81_%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%BC>  
+<https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81_%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%BC> 
 <https://docs.python.org/3/tutorial/introduction.html#numbers>
 
 ### Step 8 (S-12052)
@@ -535,7 +535,7 @@ Step on Stepik: <https://stepik.org/lesson/2228/step/10>
 Формально все в норме, два операнда и оператор на своих местах. Однако, результат вычислить не возможно, потому что на ноль делить нельзя.
 
 <a id="chapter_1.6"></a>
-## :green_book: Операции с вещественными числами [:top:](#content)
+## Операции с вещественными числами [:top:](#content)
 
 ### Step 1 (S-14012)
 Step on Stepik: <https://stepik.org/lesson/2230/step/1>
@@ -593,7 +593,7 @@ Step on Stepik: <https://stepik.org/lesson/2230/step/2>
 и эта запись будет обозначать число 1234, умноженное на 10 в степени 2
 
 <a id="chapter_1.7"></a>
-## :green_book: Типы данных [:top:](#content)
+## Типы данных [:top:](#content)
 
 ### Step 1 (S-12233)
 Step on Stepik: <https://stepik.org/lesson/2231/step/1>
@@ -628,7 +628,7 @@ Step on Stepik: <https://stepik.org/lesson/2231/step/5>
 ![](images/S-12055-2.png)
 
 <a id="chapter_1.8"></a>
-## :green_book: Переменные. Стандартный ввод/вывод [:top:](#content)
+## Переменные. Стандартный ввод/вывод [:top:](#content)
 
 ### Step 1 (S-12059)
 Step on Stepik: https://stepik.org/lesson/2232/step/1
@@ -691,9 +691,9 @@ Step on Stepik: https://stepik.org/lesson/2232/step/1
 
 Вообще, не совсем корректно говорить, что переменная имеет такой-то тип. Более правильным будет утверждение, что в конкретный момент выполнения программы конкретная переменная имеет такой-то тип, то есть связана с конкретным объектом этого типа. Этим Python отличается от многих других языков программирования с так называемой статической типизации, где тип переменной жестко зафиксирован.
 
-**Ссылки:**  
+**Ссылки:** 
 <https://www.8host.com/blog/ispolzovanie-peremennyx-v-python-3/>. 
-<http://pep8.ru/doc/pep8/>  
+<http://pep8.ru/doc/pep8/> 
 <https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B8%D0%BF%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F>
 
 ### Step 2 (S-12061)
@@ -786,75 +786,98 @@ Step on Stepik: <https://stepik.org/lesson/2232/step/5>
 
 ![](images/S-12062-11.png)
 
-### :closed_book: Задачи по материалам урока
-Step on Stepik: <https://stepik.org/lesson/2232/step/6>  
-Step on Stepik: <https://stepik.org/lesson/2232/step/7>  
-Step on Stepik: <https://stepik.org/lesson/2232/step/8>  
+### Задачи по материалам урока
+Step on Stepik: <https://stepik.org/lesson/2232/step/6> 
+Step on Stepik: <https://stepik.org/lesson/2232/step/7> 
+Step on Stepik: <https://stepik.org/lesson/2232/step/8> 
 
 Задачи по материалам урока: <https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8>
 
 <a id="chapter_1.9"></a>
-## :green_book: Логические операции, операции сравнения [:top:](#content)
+## Логические операции, операции сравнения [:top:](#content)
+
+### Step 1 (S-12066)
+Step on Stepik: <https://stepik.org/lesson/2413/step/1>
+
+Мы уже упоминали логический тип данных **bool**. Давайте посмотрим на логические значения чуть более детально. Итак имеются два логических значение **True** - истина и **False** - ложь. **False** обозначается нолем, **True** обозначается единицей.
+
+![](images/S-12066-1.png)
+
+Существуют три основные операции с логическими значениями: операция **или** - оператор **or**, операция **и** - оператор **and** и унарная операция отрицания - **not**. Они определяются естественным образом: операция **или** применяется к двум логическим переменным и является истинной в том и только в том случае, если хотя бы один из операндов **x** и **y** является истинным.
+
+Более формально это можно показать следующим образом. Давайте посмотрим на все возможные значения **x** и **y**. Существует четыре варианта.
+
+| x | y | x or y | x and y | not x |
+|---|---|--------|---------|-------|
+| 0 | 0 | 0 | 0 | 1 |
+| 0 | 1 | 1 | 0 | 1 |
+| 1 | 0 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 1 | 0 |
+В случае, когда **x** и **y** равны 0, для операции **или**, то результат вычисления **x or y** будет равен 0. В остальных случаях, хотя бы один из операндов равен 1 и результатом тоже будет 1.
+
+Операция **x and y** работает следующим образом - результат является истинным только в том случае если оба операнда истины. Поэтому мы запишем 1 только в последней строчке, а все остальные варианты дают в результате 0.
+
+И наконец, операция **not x** инвертирует значение переменной **x**. Если она была истиной, то результат будет ложь. Если **x** - ложь, то результатом операции отрицания будет истина.
 
 <a id="chapter_1.10"></a>
-## :green_book: Условия: if, else, elif. Блоки, отступы [:top:](#content)
+## Условия: if, else, elif. Блоки, отступы [:top:](#content)
 
 <a id="chapter_1.11"></a>
-## :green_book: Строки [:top:](#content)
+## Строки [:top:](#content)
 
 <a id="chapter_1.12"></a>
-## :closed_book: Задачи по материалам недели [:top:](#content)
+## Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_2"></a>
 # Циклы. Строки. Списки
 
 <a id="chapter_2.1"></a>
-## :green_book: Цикл while  [:top:](#content)
+## Цикл while [:top:](#content)
 
 <a id="chapter_2.2"></a>
-## :green_book: Операторы break, continue [:top:](#content)
+## Операторы break, continue [:top:](#content)
 
 <a id="chapter_2.3"></a>
-## :green_book: Цикл for [:top:](#content)
+## Цикл for [:top:](#content)
 
 <a id="chapter_2.4"></a>
-## :green_book: Строки и символы [:top:](#content)
+## Строки и символы [:top:](#content)
 
 <a id="chapter_2.5"></a>
-## :green_book: Списки [:top:](#content)
+## Списки [:top:](#content)
 
 <a id="chapter_2.6"></a>
-## :closed_book: Задачи по материалам недели [:top:](#content)
+## Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_3"></a>
 # Функции. Словари. Интерпретатор. Файлы. Модули
 
 <a id="chapter_3.1"></a>
-## :green_book: Функции  [:top:](#content)
+## Функции [:top:](#content)
 
 <a id="chapter_3.2"></a>
-## :green_book: Словари [:top:](#content)
+## Словари [:top:](#content)
 
 <a id="chapter_3.3"></a>
-## :green_book: Интерпретатор: установка, запуск скрипта [:top:](#content)
+## Интерпретатор: установка, запуск скрипта [:top:](#content)
 
 <a id="chapter_3.4"></a>
-## :green_book: Файловый ввод/вывод [:top:](#content)
+## Файловый ввод/вывод [:top:](#content)
 
 <a id="chapter_3.5"></a>
-## :green_book: Модули, подключение модулей [:top:](#content)
+## Модули, подключение модулей [:top:](#content)
 
 <a id="chapter_3.6"></a>
-## :green_book: Установка дополнительных модулей [:top:](#content)
+## Установка дополнительных модулей [:top:](#content)
 
 <a id="chapter_3.7"></a>
-## :closed_book: Задачи по материалам недели [:top:](#content)
+## Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_3.8"></a>
-## :green_book: Библиотеки для анализа данных. NumPy [:top:](#content)
+## Библиотеки для анализа данных. NumPy [:top:](#content)
 
 <a id="chapter_3.9"></a>
-## :green_book: Библиотека Matplotlib [:top:](#content)
+## Библиотека Matplotlib [:top:](#content)
 
 <a id="chapter_3.10"></a>
-## :green_book: Заключение [:top:](#content)
+## Заключение [:top:](#content)
