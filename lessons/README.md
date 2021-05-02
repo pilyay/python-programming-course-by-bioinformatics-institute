@@ -44,10 +44,10 @@
 ---
 
 <a id="chapter_1"></a>
-# Операторы. Переменные. Типы данных. Условия
+# 1 Операторы. Переменные. Типы данных. Условия
 
 <a id="chapter_1.1"></a>
-## Общая информация о курсе [:top:](#content)
+## 1.1 Общая информация о курсе [:top:](#content)
 
 ### Step 1 (S-13889)
 Step on Stepik: <https://stepik.org/lesson/6433/step/1>
@@ -131,7 +131,7 @@ Step on Stepik: <https://stepik.org/lesson/6433/step/8>
 Рекомендуйте курс друзьям и знакомым, ведь вместе проходить его гораздо веселее!
 
 <a id="chapter_1.2"></a>
-## Введение: программы и Python. Проверка заданий [:top:](#content)
+## 1.2 Введение: программы и Python. Проверка заданий [:top:](#content)
 
 ### Step 1 (S-12300)
 Step on Stepik: <https://stepik.org/lesson/3360/step/1>
@@ -198,7 +198,7 @@ Step on Stepik: <https://stepik.org/lesson/3360/step/4>
 и ее перевод на русский: <http://wombat.org.ua/AByteOfPython/>
 
 <a id="chapter_1.3"></a>
-## Интерактивный режим Python. IPython [:top:](#content)
+## 1.3 Интерактивный режим Python. IPython [:top:](#content)
 
 ### Step 1 (S-14147)
 Step on Stepik: <https://stepik.org/lesson/3361/step/1>
@@ -311,7 +311,7 @@ Step on Stepik: <https://stepik.org/lesson/3361/step/6>
 Видим, что все вспомогательные строчки закомментированы. Незакомментированными остались только инструкции для интерпретатора. Далее, если ваша программа уже готова, вы можете отправить на ее проверку. Для этого просто выделите весь текст, скопируйте его и вставьте на сайте в окно ответа.
 
 <a id="chapter_1.4"></a>
-## Установка Python на компьютер [:top:](#content)
+## 1.4 Установка Python на компьютер [:top:](#content)
 
 ### Step 1 (S-14829)
 Step on Stepik: https://stepik.org/lesson/7150/step/1
@@ -444,7 +444,7 @@ Cсылка для скачивания пакета Miniconda: <http://conda.py
 Команды для запуска: `conda update conda --yes conda install ipython --yes conda install ipython-notebook --yes conda install pyzmq --yes conda install jinja2 --yes conda install tornado --yes`
 
 <a id="chapter_1.5"></a>
-## Операции с целыми числами [:top:](#content)
+## 1.5 Операции с целыми числами [:top:](#content)
 
 ### Step 1 (S-14010)
 Step on Stepik: <https://stepik.org/lesson/2228/step/1>
@@ -538,7 +538,7 @@ Step on Stepik: <https://stepik.org/lesson/2228/step/10>
 Формально все в норме, два операнда и оператор на своих местах. Однако, результат вычислить не возможно, потому что на ноль делить нельзя.
 
 <a id="chapter_1.6"></a>
-## Операции с вещественными числами [:top:](#content)
+## 1.6 Операции с вещественными числами [:top:](#content)
 
 ### Step 1 (S-14012)
 Step on Stepik: <https://stepik.org/lesson/2230/step/1>
@@ -593,7 +593,7 @@ Step on Stepik: <https://stepik.org/lesson/2230/step/2>
 и эта запись будет обозначать число 1234, умноженное на 10 в степени 2
 
 <a id="chapter_1.7"></a>
-## Типы данных [:top:](#content)
+## 1.7 Типы данных [:top:](#content)
 
 ### Step 1 (S-12233)
 Step on Stepik: <https://stepik.org/lesson/2231/step/1>
@@ -628,7 +628,7 @@ Step on Stepik: <https://stepik.org/lesson/2231/step/5>
 ![](images/S-12055-2.png)
 
 <a id="chapter_1.8"></a>
-## Переменные. Стандартный ввод/вывод [:top:](#content)
+## 1.8 Переменные. Стандартный ввод/вывод [:top:](#content)
 
 ### Step 1 (S-12059)
 Step on Stepik: https://stepik.org/lesson/2232/step/1
@@ -782,15 +782,21 @@ Step on Stepik: <https://stepik.org/lesson/2232/step/5>
 
 ![](images/S-12062-11.png)
 
+### Step 6 (S-6550)
+Step on Stepik: <https://stepik.org/lesson/2232/step/6>
+
+### Step 7 (S-6551)
+Step on Stepik: <https://stepik.org/lesson/2232/step/7>
+
+### Step 8 (S-6556)
+Step on Stepik: <https://stepik.org/lesson/2232/step/8>
+
 ### Задачи по материалам урока
-Step on Stepik: <https://stepik.org/lesson/2232/step/6>  
-Step on Stepik: <https://stepik.org/lesson/2232/step/7>  
-Step on Stepik: <https://stepik.org/lesson/2232/step/8>  
 
 Задачи по материалам урока: <https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8>
 
 <a id="chapter_1.9"></a>
-## Логические операции, операции сравнения [:top:](#content)
+## 1.9 Логические операции, операции сравнения [:top:](#content)
 
 ### Step 1 (S-12066)
 Step on Stepik: <https://stepik.org/lesson/2413/step/1>
@@ -883,65 +889,94 @@ Step on Stepik: <https://stepik.org/lesson/2413/step/5>
 
 результатом которого будет **False**.
 
+### Step 6 (S-6749)
+Step on Stepik: <https://stepik.org/lesson/2413/step/6>
+
+### Step 7 (S-6750)
+Step on Stepik: <https://stepik.org/lesson/2413/step/7>
+
+### Step 8 (S-11746)
+Step on Stepik: <https://stepik.org/lesson/2413/step/8>
+
 <a id="chapter_1.10"></a>
-## Условия: if, else, elif. Блоки, отступы [:top:](#content)
+## 1.10 Условия: if, else, elif. Блоки, отступы [:top:](#content)
+
+### Step 1 (S-12070)
+Step on Stepik: https://stepik.org/lesson/2414/step/1
+
+
+
+Рассмотрим следующую задачу. Мы хотим проверить число на четность, если число четное выводим слово "Четное", если нечетное выводим "Нечетное". Как можно проверить числа четность? Напомню, что четные числа это числа - 2 4 6 8, то есть которые делятся на 2, а нечетные - 1 3 5 7, которые на 2 не делятся. Значит нам нужно проверить число на делимость на 2. Для этого мы можем использовать операцию взятия остатка. Мы берем остаток от деления нашего числа на 2, и если он равен 0, значит наше число четное. В противном случае число нечетное. Но нам не достаточно определить четность числа, необходимо еще выполнить разные действия, в зависимости от результата (в одном случае вывести слово "Четное", в другом "Нечетное"). Для такого рода ситуаций нам нужны условные конструкции. Условные конструкции в Python реализуются с помощью конструкции:
+
+```python
+if **условие**:
+    инструкция для случая, если условие истинно   
+else:
+    инструкция для случая, если условие ложно
+```
+
+Применительно к нашей задаче это выглядит так:
+
+![](images/Step_1_(S-12070)_1.png)
+
+мы пишем ключевое слово if, далее задаем наше логическое условие (вычисляем остаток деления числа на 2 и сравниваем результат с 0). После двоеточия запишем инструкцию для случая, когда результат логического выражения (всего целиком) оказался True. Применительно к нашей программе - функция print выведет "Четное". А после else: описываем действия, которые нужно выполнить, если логическое условие вернуло False. Стоит обратить внимание на следующий момент, в обоих случаях блоки кода, описывающие действия (следующие после двоеточий) выделяются отступами. Если нам необходимо выполнить несколько команд, их необходимо записывать с одинаковыми отступами. Для отступов рекомендуется использовать 4 пробела. В IPython автоматические отступы делаются нажатием на клавишу <Tab>.
 
 <a id="chapter_1.11"></a>
-## Строки [:top:](#content)
+## 1.11 Строки [:top:](#content)
 
 <a id="chapter_1.12"></a>
-## Задачи по материалам недели [:top:](#content)
+## 1.12 Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_2"></a>
-# Циклы. Строки. Списки
+# 2 Циклы. Строки. Списки
 
 <a id="chapter_2.1"></a>
-## Цикл while [:top:](#content)
+## 2.1 Цикл while [:top:](#content)
 
 <a id="chapter_2.2"></a>
-## Операторы break, continue [:top:](#content)
+## 2.2 Операторы break, continue [:top:](#content)
 
 <a id="chapter_2.3"></a>
-## Цикл for [:top:](#content)
+## 2.3 Цикл for [:top:](#content)
 
 <a id="chapter_2.4"></a>
-## Строки и символы [:top:](#content)
+## 2.4 Строки и символы [:top:](#content)
 
 <a id="chapter_2.5"></a>
-## Списки [:top:](#content)
+## 2.5 Списки [:top:](#content)
 
 <a id="chapter_2.6"></a>
-## Задачи по материалам недели [:top:](#content)
+## 2.6 Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_3"></a>
-# Функции. Словари. Интерпретатор. Файлы. Модули
+# 3 Функции. Словари. Интерпретатор. Файлы. Модули
 
 <a id="chapter_3.1"></a>
-## Функции [:top:](#content)
+## 3.1 Функции [:top:](#content)
 
 <a id="chapter_3.2"></a>
-## Словари [:top:](#content)
+## 3.2 Словари [:top:](#content)
 
 <a id="chapter_3.3"></a>
-## Интерпретатор: установка, запуск скрипта [:top:](#content)
+## 3.3 Интерпретатор: установка, запуск скрипта [:top:](#content)
 
 <a id="chapter_3.4"></a>
-## Файловый ввод/вывод [:top:](#content)
+## 3.4 Файловый ввод/вывод [:top:](#content)
 
 <a id="chapter_3.5"></a>
-## Модули, подключение модулей [:top:](#content)
+## 3.5 Модули, подключение модулей [:top:](#content)
 
 <a id="chapter_3.6"></a>
-## Установка дополнительных модулей [:top:](#content)
+## 3.6 Установка дополнительных модулей [:top:](#content)
 
 <a id="chapter_3.7"></a>
-## Задачи по материалам недели [:top:](#content)
+## 3.7 Задачи по материалам недели [:top:](#content)
 
 <a id="chapter_3.8"></a>
-## Библиотеки для анализа данных. NumPy [:top:](#content)
+## 3.8 Библиотеки для анализа данных. NumPy [:top:](#content)
 
 <a id="chapter_3.9"></a>
-## Библиотека Matplotlib [:top:](#content)
+## 3.9 Библиотека Matplotlib [:top:](#content)
 
 <a id="chapter_3.10"></a>
-## Заключение [:top:](#content)
+## 3.10 Заключение [:top:](#content)
