@@ -789,7 +789,7 @@ Step on Stepik: <https://stepik.org/lesson/2232/step/5>
 ### Step 6 (S-6550)
 Step on Stepik: https://stepik.org/lesson/2232/step/6
 
-<https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8#task1-8>
+<https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8>
 
 <a id="chapter_1.9"></a>
 ## :green_book: Логические операции, операции сравнения [:top:](#content)
