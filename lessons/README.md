@@ -788,8 +788,8 @@ Step on Stepik: <https://stepik.org/lesson/2232/step/5>
 
 ### :closed_book: Задачи по материалам урока
 Step on Stepik: <https://stepik.org/lesson/2232/step/6>  
-Step on Stepik: <https://stepik.org/lesson/2232/step/7>
-Step on Stepik: <https://stepik.org/lesson/2232/step/8>
+Step on Stepik: <https://stepik.org/lesson/2232/step/7>  
+Step on Stepik: <https://stepik.org/lesson/2232/step/8>  
 Задачи по материалам урока: <https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8>
 
 <a id="chapter_1.9"></a>
