@@ -1099,7 +1099,6 @@ Step on Stepik: <https://stepik.org/lesson/3362/step/5>
 
 Задачи по материалам недели: <https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-12>
 
-
 <a id="chapter_2"></a>
 # 2 Циклы. Строки. Списки
 
