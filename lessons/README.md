@@ -786,10 +786,10 @@ Step on Stepik: <https://stepik.org/lesson/2232/step/5>
 
 ![](images/S-12062-11.png)
 
-### Step 6 (S-6550)
+### :closed_book: [Задачи по материалам урока](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8)
 Step on Stepik: https://stepik.org/lesson/2232/step/6
-
-<https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md#task1-8>
+Step on Stepik: https://stepik.org/lesson/2232/step/7
+Step on Stepik: https://stepik.org/lesson/2232/step/8
 
 <a id="chapter_1.9"></a>
 ## :green_book: Логические операции, операции сравнения [:top:](#content)
