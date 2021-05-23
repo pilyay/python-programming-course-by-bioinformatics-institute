@@ -11,7 +11,7 @@
 
 * :books: **Содержание**
 	* :green_book: [Лекции](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/lessons/README.md)
-	* :closed_book: [Задачи](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/python_programming.md)
+	* :closed_book: [Задачи](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/tasks.md)
 
 * :mortar_board: [**Сертификат**](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
 
