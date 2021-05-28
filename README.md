@@ -10,7 +10,7 @@
 Также в курсе присутствует несколько задач повышенной сложности, которые являются необязательными для прохождения курса, однако желающие смогут поломать голову над придумыванием алгоритмов и реализацией программ к этим задачам.
 
 * :books: **Содержание**
-	* :green_book: [Лекции](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/lessons/README.md)
+	* :green_book: [Лекции](/lessons/lessons.md)
 	* :closed_book: [Задачи](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/tasks/tasks.md)
 
 * :mortar_board: [**Сертификат**](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf)
